@@ -1,4 +1,4 @@
-# Next.js self-learn
+# nextjs-deep-dive
 
 This folder is study material for Next.js 16—mostly markdown notes, exercises, and templates. There isn’t a single app you `npm install` here; it’s reference you use while building something real in another project.
 
